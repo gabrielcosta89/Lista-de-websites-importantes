@@ -1,0 +1,19 @@
+body{
+    padding:50px;
+    display:flex;
+    flex-direction: column;
+    gap:50px;
+    background-color:black;
+}
+
+a{
+    font-size:28px;
+    text-decoration: none;
+    cursor:pointer;
+    color:blueviolet;
+    text-align: center;
+}
+h1{
+    color:White;
+    text-align: center;;
+}
